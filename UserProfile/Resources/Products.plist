@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>products</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Фігурка Gordon Freeman</string>
+			<key>price</key>
+			<string>9 830 грн</string>
+			<key>description</key>
+			<string>Колекційна фігурка Mondo Half-Life 2: Gordon Freeman</string>
+			<key>image</key>
+			<string>gordon</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Фігурка Warchief Thrall</string>
+			<key>price</key>
+			<string>29 999 грн</string>
+			<key>description</key>
+			<string>Колекційна фігурка Варкрафт Blizzard World of Warcraft - Warchief Thrall</string>
+			<key>image</key>
+			<string>thrall</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Фігурка Helm of Domination</string>
+			<key>price</key>
+			<string>13 999 грн</string>
+			<key>description</key>
+			<string>Колекційна фігурка Варкрафт Blizzard World of Warcraft - Helm of Domination
+</string>
+			<key>image</key>
+			<string>helm</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Футболка Портал</string>
+			<key>price</key>
+			<string>799 грн</string>
+			<key>description</key>
+			<string>Футболка Портал Valve Portal Jumping Cat
+</string>
+			<key>image</key>
+			<string>portal</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Колекційна фігурка Грогу</string>
+			<key>price</key>
+			<string>17 280 грн</string>
+			<key>description</key>
+			<string>Колекційна фігурка Зоряні війни Грогу</string>
+			<key>image</key>
+			<string>grogu</string>
+		</dict>
+	</array>
+</dict>
+</plist>

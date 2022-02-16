@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FirstName</key>
+	<string>Mulder</string>
+	<key>LastName</key>
+	<string>Fox</string>
+	<key>DateOfBirth</key>
+	<string>13.10.1961</string>
+	<key>PhoneNumber</key>
+	<string>555-3574</string>
+	<key>Country</key>
+	<string>USA</string>
+	<key>State</key>
+	<string>VA</string>
+	<key>City</key>
+	<string>Alexandria</string>
+	<key>Address</key>
+	<string>2630 Hegal Place</string>
+	<key>PostalCode</key>
+	<string>23242</string>
+	<key>Image</key>
+	<string>1</string>
+</dict>
+</plist>
